@@ -1,5 +1,5 @@
 # Steel_Treatment
-Codes developed for the final project of Spring 2019 24-786, Bayesian Machine Learning, in the Mechanical Engineering department at CMU. 
+Spring 2019 24-786, Bayesian Machine Learning, in the Mechanical Engineering department at CMU. 
 
 In the repository of steel_treatment by YuminZh, there are 4 python scripts. 
 
